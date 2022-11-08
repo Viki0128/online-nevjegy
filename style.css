@@ -7,12 +7,41 @@
     font-size: 100%;
   }
   .profile-card {
-    width: 480px;
-    max-width: calc(100vw - 10px);
+    width: 500px;
+    max-width: calc(100vw - 20px);
   }
   body {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background: url(/assets/118232106_2598324637148997_5093865617624654254_n.jpg); 
+    no-repeat center center fixed;
+    background-size: cover;
+    font-family: "Monotype Corsiva";
+    font-size: 20px;
   }
+  .head, .links {
+    text-align: center;
+  }
+  /* contact links */
+  ul {
+    list-style-type: none;
+  }
+  li {
+    display: inline;
+  }
+  .contect {
+    border-top: 1px solid hsla (0, 0%, 30%, 8);
+  }
+  img {
+    border-radius: 40%;
+    width: auto;
+    height: 150px;
+    padding: -1px;
+
+  }
+  .profile-image {
+    margin-top: -60px;
+    }
+
