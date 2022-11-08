@@ -9,17 +9,18 @@
   .profile-card {
     width: 500px;
     max-width: calc(100vw - 20px);
+    box-shadow:  rgba(0, 0, 0, 0.933) 10px 10px 80px;
   }
   body {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url(/assets/118232106_2598324637148997_5093865617624654254_n.jpg); 
-    no-repeat center center fixed;
+    background: url(/assets/118232106_2598324637148997_5093865617624654254_n.jpg);
     background-size: cover;
     font-family: "Monotype Corsiva";
     font-size: 20px;
+  
   }
   .head, .links {
     text-align: center;
