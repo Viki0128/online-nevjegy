@@ -7,7 +7,7 @@
     font-size: 100%;
   }
   .profile-card {
-    width: 500px;
+    width: 650px;
     max-width: calc(100vw - 20px);
     box-shadow:  rgba(0, 0, 0, 0.933) 10px 10px 80px;
     background-color: rgba(255, 255, 255, 0.467);
@@ -22,7 +22,7 @@
     background: url(/assets/118232106_2598324637148997_5093865617624654254_n.jpg);
     background-size: cover;
     font-family: "Monotype Corsiva";
-    font-size: 22px;
+    font-size: 20px;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center center;
